@@ -15,5 +15,9 @@
 
 PS：SSL协议：SSL(Secure Sockets Layer 安全套接层),及其继任者传输层安全（Transport Layer Security，TLS）是为网络通信提供安全及数据完整性的一种安全协议。
 
+<<<<<<< HEAD
 > 3. TCP/IP协议
 三次握手：
+=======
+> 3. TCP/IP协议()
+>>>>>>> c54749964cd228dce8d00732b04ee04c1803c7fa
